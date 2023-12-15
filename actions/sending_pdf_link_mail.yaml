@@ -1,0 +1,5 @@
+pack: axl_utilities
+enabled: true
+runner_type: orquesta
+name: sending_pdf_link_mail
+entry_point: workflows/sending_pdf_link_mail.yaml

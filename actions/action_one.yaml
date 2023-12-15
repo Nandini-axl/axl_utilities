@@ -1,0 +1,7 @@
+---
+name: action_one
+pack: axl_utilities
+runner_type: "local-shell-script"
+description: Show Date and Day
+enabled: true
+entry_point: action_one.py

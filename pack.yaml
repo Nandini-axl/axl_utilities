@@ -1,0 +1,15 @@
+---
+ref: axl_utilities
+name: axl_utilities
+description: "A StackStorm pack for demonstration purposes"
+version: '0.1.0'
+author: "Nandini Sirasani"
+keywords:
+    - "Coding_Challenege"
+    - "only_one_python_action"
+email: "nanduvenkat551@gmail.com"
+python_versions:
+  - '3'
+dependencies:
+    - core
+    
